@@ -1,3 +1,2 @@
 clone and mirror
-new changes should reflect
 This is only for testing purpose
